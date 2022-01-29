@@ -2,9 +2,9 @@
 Simple Application to show the ability of using sockets and threading
 
 
-This is a chatbox application in which several users can chat with each other
-Application is running on a local host
-TKinter was used to for the GUI
+This is a chatbox application in which several users can chat with each other. 
+Application is running on a local host. 
+TKinter was used for the GUI.
 
 
 How to use the application:
